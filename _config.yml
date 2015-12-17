@@ -1,7 +1,7 @@
 name: Asher
 favicon: null
 layout_spectrum: 0.27651263447478414
-typography_spectrum: 0.37232162104919553
+typography_spectrum: 0.68436
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.12910460820421576
-  lightness: 0.023337666410952806
-  saturation: 0.9394748525228351
-  rhythmicContrast: 0.4652365215588361
+    - '#111312'
+    - '#d84e06'
+    - '#97907e'
+    - '#f18a24'
+    - '#cfcbbf'
+  brandStrength: 0.6875
+  lightness: 0
+  saturation: 0.8125
+  rhythmicContrast: 0.25
 purpose: []
